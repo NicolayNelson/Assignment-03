@@ -11,3 +11,19 @@
 //  # # # #
 
 
+let area = 8;
+
+let chessBoard = "";
+
+for (let height = 0; height < area; height++) {
+  for (let width = 0; width < area; width++) {
+    if ((width + height) % 2 == 0) {
+      chessBoard += "#";
+    } else {
+      chessBoard += " ";
+    }
+  }
+  chessBoard += "\n";
+}
+
+console.log(chessBoard);
