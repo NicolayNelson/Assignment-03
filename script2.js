@@ -29,25 +29,3 @@ while (i <= 100) {
   } 
   i++; 
 }
-
-
-// let i = 1;
-// while (i <= 100) {
-//   let output = "";
-//  if (i % 15 == 0) {
-
-//  } else {
-
-//  } console.log(i)
-//  i++;
-// }
-//   if else (i % 15 == 0) output += "FizzBuzz"; {
-//   else if (i % 3 == 0) output += "Fizz";
-//   else (i % 5 == 0) output += "Buzz";
-//   if (condition) {
-
-//   } else i % 15 == 0) output += "FizzBuzz";{
-
-//   }
-//   }
-// }
