@@ -10,7 +10,6 @@
 // # # # #
 //  # # # #
 
-
 let area = 8;
 
 let chessBoard = "";

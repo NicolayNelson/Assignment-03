@@ -11,12 +11,14 @@
 // ...
 
 let i = 1;
-while(i<=100) {
-     let output = "";
-     if (i % 3 == 0) output += "Fizz";
-     if (i % 5 == 0) output += "Buzz";
-     console.log(output || i);
-     i++;
-     
+while (i <= 100) {
+  let output = "";
+  if (i % 3 && % 5 == 0) output"FizzBuzz" {
+    
+  } else if {
+    (i % 3 == 0) output += "Fizz";
+  } 
+ else {
+    (i % 5 == 0) output += "Buzz";
+  }
 }
-
